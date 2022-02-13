@@ -6,7 +6,7 @@ export const WIN_MESSAGES = ['Você é um Gênio!',
 export const GAME_COPIED_MESSAGE = 'Jogo copiado para área de trabalho'
 export const ABOUT_GAME_MESSAGE = 'Sobre este Jogo'
 export const NOT_ENOUGH_LETTERS_MESSAGE = 'Letras insuficientes'
-export const WORD_NOT_FOUND_MESSAGE = 'Esta palavra não encontrada'
+export const WORD_NOT_FOUND_MESSAGE = 'Palavra não encontrada'
 export const HARD_MODE_ALERT_MESSAGE =
   'Modo difícil só pode ser selecionado no início do jogo!'
 export const CORRECT_WORD_MESSAGE = (solution: string) =>
