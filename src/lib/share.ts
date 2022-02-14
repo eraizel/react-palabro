@@ -9,9 +9,10 @@ export const shareStatus = (
   isHardMode: boolean
 ) => {
   navigator.clipboard.writeText(
-    `${GAME_TITLE} ${solutionIndex} ${lost ? 'X' : guesses.length}/6${
+    `${GAME_TITLE}\n
+    https://palabro-silk.vercel.app/ ${solutionIndex} ${lost ? 'X' : guesses.length}/6${
       isHardMode ? '*' : ''
-    }"test "\n\n` + generateEmojiGrid(guesses)
+    }\n\n` + generateEmojiGrid(guesses)
   )
 }
 
