@@ -6047,7 +6047,7 @@ export const VALID_GUESSES = [
   'povos',
   'praça',
   'prado',
-  'Praga',
+  'praga',
   'praia',
   'prali',
   'prata',

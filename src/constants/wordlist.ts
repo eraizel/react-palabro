@@ -24,7 +24,7 @@ export const WORDS = [
   'grego',
   'bujão',
   'truco',
-  'Praga',
+  'praga',
   'barca',
   'maiôs',
   'catas',
